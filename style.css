@@ -9,9 +9,13 @@ body {
  font-family: 'Montserrat', sans-serif;
  color: #000;
 }
+img {
+    max-width: 100%;
+}
 .container {
- max-width: 1110px;
+ max-width: 1140px;
  margin: 0 auto;
+ padding: 0 20px;
 }
 .none {
  display: none !important;
@@ -151,8 +155,8 @@ body {
 }
 .footer-icons-row {
  display: flex;
- justify-content: start;
- margin-left: 60px;
+ justify-content: center; /* Під 4 іконки start */
+ /* margin-left: 60px; */
 }
 .footer-icons-row a + * {
  margin-left: 30px;
@@ -186,7 +190,7 @@ body {
  color: #1E4776;
 }
 /* #endregion */
-
+/* #region project */
 .project {
  padding: 50px 0 120px 0;
  text-align: center;
@@ -212,6 +216,14 @@ body {
  font-weight: 400;
  line-height: 1.5; /* 24px */
  }
+ /* .link-external {
+  text-decoration: none;
+  color: #1E4776;
+ } */
+.project-desc a {
+ text-decoration: none;
+ color: #275BEC;
+}
 .project-btn-back {
  display: inline-block;
  font-size: 16px;
@@ -230,3 +242,4 @@ body {
  color: #fff;
  background-color: #275BEC;
 }
+/* #endregion */
