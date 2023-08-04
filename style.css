@@ -30,8 +30,8 @@ img {
  justify-content: center;
  align-items: center;
  /* background-color: #556983;
- background: url(/img/header-bg.jpg) no-repeat center; */
- background-size: cover;
+ background: url(/img/header-bg.jpg) no-repeat center;
+ background-size: cover; */
 }
 .header-title {
  margin: 0 0 25px 0;
