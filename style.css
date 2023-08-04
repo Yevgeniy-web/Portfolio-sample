@@ -233,9 +233,6 @@ img {
  padding: 20px 30px 20px 30px;
  line-height: 18px;
  transition: all 0.2s ease-in;
- display: flex;
- justify-content: center;
- flex-wrap: wrap;
 
 }
 .project-btn-back:hover {
