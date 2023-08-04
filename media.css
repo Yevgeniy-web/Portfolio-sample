@@ -83,28 +83,28 @@
 .footer-col:last-child {
  margin-bottom: 25px;
  }
- .project {
-  padding: 40px 0 60px 0;
+.project {
+ padding: 40px 0 60px 0;
  }
- .project-header {
-  font-size: 28px;
-  margin-bottom: 30px;
+.project-header {
+ font-size: 28px;
+ margin-bottom: 30px;
  }
- .project-img {
-  margin-bottom: 20px;
+.project-img {
+ margin-bottom: 20px;
  }
- .project-desc {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
-  margin-bottom: 50px;
+.project-desc {
+ /* display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center; */
+ margin-bottom: 50px;
  }
- .project-btn-back {
-  max-width: 320px;
-  width: 100%;
-  vertical-align: middle;
-  height: 100%;
-  padding: 20px;
+.project-btn-back {
+ max-width: 320px;
+ width: 100%;
+ vertical-align: middle;
+ height: 100%;
+ padding: 20px;
  }
 }
